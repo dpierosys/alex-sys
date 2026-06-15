@@ -13,6 +13,13 @@
     justify-content: flex-start;
 }
 
+.logo-img {
+    width: 48px;
+    height: auto;
+    margin-right: 15px;
+    display: block;
+}
+
 h1 {
     color: rgb(180, 174, 174);
     text-align: center;
